@@ -1,0 +1,44 @@
+body {
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .container {
+    max-width: 800px;
+  }
+  
+  #cronometro {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 18px;
+  }
+  
+  table {
+    width: 100%;
+    border-spacing: 5px;
+  }
+  
+  .table td {
+    height: 0;
+    padding-bottom: 20%;
+    position: relative;
+    text-align: center;
+  }
+  
+  .table td button {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    border: none;
+    font-size: 18px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  
+  
+  
+  
+  
+  
